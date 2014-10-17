@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cut:home|Door43 (cut)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cut|d43-cut repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cut/archive/master.zip|d43-cut.zip]]
+
+**Recent Changes**
+{{changes>ns = cut}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cut|Ethnologue data]]
+
